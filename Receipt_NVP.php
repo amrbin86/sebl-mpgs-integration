@@ -142,7 +142,7 @@ if (strcmp($resultInd, $successInd) == 0)
      </table>
          
       
-		<h2 align="center"><a href="http://localhost/MPGS/HC/index.html">Return to the Main Order Page</a></h2>
+		<h2 align="center"><a href="https://github.com/amrbin86/sebl-mpgs-integration.git/index.html">Return to the Main Order Page</a></h2>
    
     
     </body>
