@@ -56,15 +56,15 @@ $configArray["gatewayUrl"] = "https://southeastbank.gateway.mastercard.com/api/n
 
 // Merchant ID supplied by your payments provider
 //$configArray["merchantId"] = "meis211";
-$configArray["merchantId"] = "TESTBUBBLE_SPDER";
+$configArray["merchantId"] = "TESTSEBLNSU";
 
 // API username in the format below where Merchant ID is the same as above
 //$configArray["apiUsername"] = "Merchant.meis211";
 //$configArray["apiUsername"] = "Merchant.meis699";
-$configArray["apiUsername"] = "Merchant.TESTBUBBLE_SPDER";
+$configArray["apiUsername"] = "Merchant.TESTSEBLNSU";
 
 // API password which can be configured in Merchant Administration
-$configArray["password"] = "42204b4d82be4611c0e0772b4aa78fce";
+$configArray["password"] = "f815b4abd2c4bf833c5b0e0cdc3216f0";
 //$configArray["password"] = "3cff8c800cab0d5fab90c46b3099cd73";
 //$configArray["password"] = "37e33bcff6a8a749465a822d0917f583";
 
