@@ -99,7 +99,7 @@ include "connection.php";
        <script src="https://southeastbank.gateway.mastercard.com/checkout/version/43/checkout.js"
                	 data-error="errorCallback"
                	 data-cancel="cancelCallback"
-                 data-complete="demo-mpgs.whiterabbitz.com/Receipt_NVP.php"
+                 data-complete="https://github.com/amrbin86/sebl-mpgs-integration.git/Receipt_NVP.php"
                 >
        </script>
 
@@ -191,6 +191,6 @@ include "connection.php";
         <p style="text-align:center;"><input type="button" value="Pay with Lightbox" onclick="Checkout.showLightbox();" /></p>
         <p style="text-align:center;"><input type="button" value="Pay with Payment Page" onclick="Checkout.showPaymentPage();" /></p>
 				
-        <p style="text-align:center;"><a href= "http://localhost/MPGS/HC/index.html"><br><br><input type="button" value="Cancel Payment and Return to Main Index Page" /></a></p>
+        <p style="text-align:center;"><a href= "https://github.com/amrbin86/sebl-mpgs-integration.git/index.html"><br><br><input type="button" value="Cancel Payment and Return to Main Index Page" /></a></p>
     </body>
 </html>
